@@ -1,0 +1,12 @@
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-08\[CS263] 2016-03-08\Example02 - overflow\bin\Debug\Example02 - overflow.exe.config
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-08\[CS263] 2016-03-08\Example02 - overflow\obj\Debug\Example02 - overflow.csprojResolveAssemblyReference.cache
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-08\[CS263] 2016-03-08\Example02 - overflow\bin\Debug\Example02 - overflow.exe
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-08\[CS263] 2016-03-08\Example02 - overflow\bin\Debug\Example02 - overflow.pdb
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-08\[CS263] 2016-03-08\Example02 - overflow\obj\Debug\Example02 - overflow.exe
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-08\[CS263] 2016-03-08\Example02 - overflow\obj\Debug\Example02 - overflow.pdb
+C:\Users\USER\Desktop\C#\Example02 - overflow\bin\Debug\Example02 - overflow.exe.config
+C:\Users\USER\Desktop\C#\Example02 - overflow\obj\Debug\Example02 - overflow.exe
+C:\Users\USER\Desktop\C#\Example02 - overflow\obj\Debug\Example02 - overflow.pdb
+C:\Users\USER\Desktop\C#\Example02 - overflow\bin\Debug\Example02 - overflow.exe
+C:\Users\USER\Desktop\C#\Example02 - overflow\bin\Debug\Example02 - overflow.pdb
+C:\Users\USER\Desktop\C#\Example02 - overflow\obj\Debug\Example02 - overflow.csprojResolveAssemblyReference.cache
