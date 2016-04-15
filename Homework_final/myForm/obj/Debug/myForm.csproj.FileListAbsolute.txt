@@ -1,0 +1,22 @@
+c:\users\user\documents\visual studio 2012\Projects\homework_final\myForm\bin\Debug\myForm.exe.config
+c:\users\user\documents\visual studio 2012\Projects\homework_final\myForm\bin\Debug\myForm.exe
+c:\users\user\documents\visual studio 2012\Projects\homework_final\myForm\bin\Debug\myForm.pdb
+c:\users\user\documents\visual studio 2012\Projects\homework_final\myForm\obj\Debug\myForm.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\homework_final\myForm\obj\Debug\myForm.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\homework_final\myForm\obj\Debug\myForm.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\homework_final\myForm\obj\Debug\myForm.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\homework_final\myForm\obj\Debug\myForm.exe
+c:\users\user\documents\visual studio 2012\Projects\homework_final\myForm\obj\Debug\myForm.pdb
+c:\users\user\documents\visual studio 2012\Projects\homework_final\myForm\bin\Debug\MonsterLibrary.dll
+c:\users\user\documents\visual studio 2012\Projects\homework_final\myForm\bin\Debug\MonsterLibrary.pdb
+C:\Users\USER\Desktop\homework_final\myForm\bin\Debug\myForm.exe.config
+C:\Users\USER\Desktop\homework_final\myForm\obj\Debug\myForm.exe
+C:\Users\USER\Desktop\homework_final\myForm\obj\Debug\myForm.pdb
+C:\Users\USER\Desktop\homework_final\myForm\bin\Debug\myForm.exe
+C:\Users\USER\Desktop\homework_final\myForm\bin\Debug\myForm.pdb
+C:\Users\USER\Desktop\homework_final\myForm\bin\Debug\MonsterLibrary.dll
+C:\Users\USER\Desktop\homework_final\myForm\bin\Debug\MonsterLibrary.pdb
+C:\Users\USER\Desktop\homework_final\myForm\obj\Debug\myForm.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\homework_final\myForm\obj\Debug\myForm.Form1.resources
+C:\Users\USER\Desktop\homework_final\myForm\obj\Debug\myForm.Properties.Resources.resources
+C:\Users\USER\Desktop\homework_final\myForm\obj\Debug\myForm.csproj.GenerateResource.Cache

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myForm", "myForm\myForm.csproj", "{A422CE16-E249-4F7C-961E-DE705DCBE653}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonsterLibrary", "MonsterLibrary\MonsterLibrary.csproj", "{C2B2114A-D893-4910-82F0-03796124E304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A422CE16-E249-4F7C-961E-DE705DCBE653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A422CE16-E249-4F7C-961E-DE705DCBE653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A422CE16-E249-4F7C-961E-DE705DCBE653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A422CE16-E249-4F7C-961E-DE705DCBE653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2B2114A-D893-4910-82F0-03796124E304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2B2114A-D893-4910-82F0-03796124E304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2B2114A-D893-4910-82F0-03796124E304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2B2114A-D893-4910-82F0-03796124E304}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
